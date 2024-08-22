@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.content {
+    width: 650px;
+    height:400px ;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.178);
+    overflow: hidden;
+}
+.content .images{
+    width: 100%;
+    height: 100%;
+}
+.images img{
+    width: 100%;
+    height: 100%;
+}
